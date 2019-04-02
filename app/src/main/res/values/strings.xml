@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">APPCLJ</string>
     <string name="button" />
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="entrar">entrar</string>
+    <string name="e_mail">E-mail</string>
 </resources>
